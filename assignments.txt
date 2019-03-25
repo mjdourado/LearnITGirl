@@ -1,0 +1,23 @@
+Assignments (as discussed):
+
+  - Write a function that takes two numbers as arguments and returns their sum
+
+  - Write a function that takes one argument, an array of two numbers, and returns the sum of the two elements
+
+  - Write a function that takes an array and returns the last element
+
+  - Write a function that takes two arrays of the same size and
+  returns an array that is the element-by-element sum of the two
+  arrays. For example, if the two arrays are [7, 1, 5] and [8, 7, 22],
+  the resulting array would be [15, 8, 27]
+
+  - Write a function that takes an array and return a new array that
+  contains two elements: the smallest and largest values of the array
+  sent in as an argument. For example, if the array sent it as input
+  is [7, 4, 1, 2, 9, 8], the return array would be [1, 9] because 1
+  and 9 are the smallest and largest values in the array.
+
+  - Write a function that takes an Object and returns true if the
+  object's "firstname" property is "Samuel", and false otherwise.
+
+
