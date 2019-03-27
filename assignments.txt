@@ -38,6 +38,19 @@ Assignments (as discussed):
 </html>
 
   - Write a function that takes an array and returns the last element
+  <!DOCTYPE html>
+<html>
+  <body>
+    <h3>Exercise 3</h3>
+    <p id="lastElement"></p>
+
+    <script>
+      let numbers = [2, 4, 6, 8, 10];
+      let last = numbers[numbers.length - 1];
+      document.getElementById("lastElement").innerHTML = last;
+    </script>
+  </body>
+</html>
 
   - Write a function that takes two arrays of the same size and
   returns an array that is the element-by-element sum of the two
