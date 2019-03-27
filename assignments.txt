@@ -1,6 +1,19 @@
 Assignments (as discussed):
 
   - Write a function that takes two numbers as arguments and returns their sum
+  <!DOCTYPE html>
+<html>
+  <body>
+    <h1>First Exercise</h1>
+    <p id="sum"></p>
+    <script>
+      function exercise(p1, p2) {
+        return p1 + p2;
+      }
+      document.getElementById("sum").innerHTML = exercise(5, 5);
+    </script>
+  </body>
+</html>
 
   - Write a function that takes one argument, an array of two numbers, and returns the sum of the two elements
 
