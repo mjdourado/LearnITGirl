@@ -16,6 +16,26 @@ Assignments (as discussed):
 </html>
 
   - Write a function that takes one argument, an array of two numbers, and returns the sum of the two elements
+  <!DOCTYPE html>
+<html>
+  <body>
+    <h2>Exercise 2</h2>
+    <p id="numberArray"></p>
+    <script>
+      var numbers = [2, 4, 2];
+      var sum = numbers.reduce(array);
+
+      document.getElementById("numberArray").innerHTML = sum + argument(2);
+
+      function array(total, value) {
+        return total + value;
+      }
+      function argument(p1) {
+        return p1;
+      }
+    </script>
+  </body>
+</html>
 
   - Write a function that takes an array and returns the last element
 
