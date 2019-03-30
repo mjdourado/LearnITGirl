@@ -1,29 +1,36 @@
 Assignments (as discussed):
 
-  - Write a function that takes two numbers as arguments and returns their sum 
+  - 1. Write a function that takes two numbers as arguments and
+  returns their sum
   
-  - Write a function that takes one argument, an array of two numbers, and returns the sum of the two elements
+  - 2. Write a function that takes one argument, an array of two
+  numbers, and returns the sum of the two elements
   
-  - Write a function that takes an array and returns the last element
+  - 3. Write a function that takes an array and returns the last
+  element
   
-  - Write a function that takes two arrays of the same size and
+  - 4. Write a function that takes two arrays of the same size and
   returns an array that is the element-by-element sum of the two
   arrays. For example, if the two arrays are [7, 1, 5] and [8, 7, 22],
   the resulting array would be [15, 8, 27]
 
-  - Write a function that takes an array and return a new array that
-  contains two elements: the smallest and largest values of the array
-  sent in as an argument. For example, if the array sent it as input
-  is [7, 4, 1, 2, 9, 8], the return array would be [1, 9] because 1
-  and 9 are the smallest and largest values in the array.
+  - 5. Write a function that takes an array and return a new array
+  that contains two elements: the smallest and largest values of the
+  array sent in as an argument. For example, if the array sent it as
+  input is [7, 4, 1, 2, 9, 8], the return array would be [1, 9]
+  because 1 and 9 are the smallest and largest values in the array.
 
-  - Write a function that takes an Object and returns true if the
+  - 6. Write a function that takes an Object and returns true if the
   object's "firstname" property is "Samuel", and false otherwise.
 
-  - Write a function that adds the positive elements of a given array. For exmaple, if the input array is [7, -5, 2, 15, -6], the function would return 24, because that's 7 + 2 + 15, and ignore the negative numbers
+  - 7. Write a function that adds the positive elements of a given
+  array. For exmaple, if the input array is [7, -5, 2, 15, -6], the
+  function would return 24, because that's 7 + 2 + 15, and ignore the
+  negative numbers
 
-  - Write a function that returns true if any element in an array is
+  - 8. Write a function that returns true if any element in an array is
   repeated and false if no elements are repeated. For example, [7, 1,
   2, 5, 7] would return true because 7 is repeated, where as [5, 17,
   21, 14, 2] would return false because no elements are repeated.
+
 

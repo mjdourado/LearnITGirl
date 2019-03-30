@@ -13,3 +13,6 @@ person[5] = {firstName: "John", lastName: "Smith", Age: 32}
 for (let i=0; i < person.length; i++) {
     console.log(booleans(person[i]));
 }
+
+// not working, needs work, note that booleans receives an object, not
+// a property
