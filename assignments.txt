@@ -1,57 +1,11 @@
 Assignments (as discussed):
 
-  - Write a function that takes two numbers as arguments and returns their sum
-  <!DOCTYPE html>
-<html>
-  <body>
-    <h1>First Exercise</h1>
-    <p id="sum"></p>
-    <script>
-      function exercise(p1, p2) {
-        return p1 + p2;
-      }
-      document.getElementById("sum").innerHTML = exercise(5, 5);
-    </script>
-  </body>
-</html>
-
+  - Write a function that takes two numbers as arguments and returns their sum 
+  
   - Write a function that takes one argument, an array of two numbers, and returns the sum of the two elements
-  <!DOCTYPE html>
-<html>
-  <body>
-    <h2>Exercise 2</h2>
-    <p id="numberArray"></p>
-    <script>
-      var numbers = [2, 4, 2];
-      var sum = numbers.reduce(array);
-
-      document.getElementById("numberArray").innerHTML = sum + argument(2);
-
-      function array(total, value) {
-        return total + value;
-      }
-      function argument(p1) {
-        return p1;
-      }
-    </script>
-  </body>
-</html>
-
+  
   - Write a function that takes an array and returns the last element
-  <!DOCTYPE html>
-<html>
-  <body>
-    <h3>Exercise 3</h3>
-    <p id="lastElement"></p>
-
-    <script>
-      let numbers = [2, 4, 6, 8, 10];
-      let last = numbers[numbers.length - 1];
-      document.getElementById("lastElement").innerHTML = last;
-    </script>
-  </body>
-</html>
-
+  
   - Write a function that takes two arrays of the same size and
   returns an array that is the element-by-element sum of the two
   arrays. For example, if the two arrays are [7, 1, 5] and [8, 7, 22],
